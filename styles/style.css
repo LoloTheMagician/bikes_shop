@@ -1,0 +1,9 @@
+@import url('./normalize.css');
+
+
+header {
+    background-color: var(--primary-color);
+    align-content: center;
+    text-align: center;
+    
+}

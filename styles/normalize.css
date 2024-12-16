@@ -1,0 +1,23 @@
+:root {
+    font-size: 16px;
+    font-family: Helvetica, Arial, sans-serif;
+    --primary-color: #E1F672;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+ul {
+    list-style-type: none;
+}
+
+
+button {
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
